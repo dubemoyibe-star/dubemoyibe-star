@@ -18,7 +18,7 @@ I have a growing interest in Web3 and actively explore decentralized technologie
 - React, Next.js
 - Express.js
 - TypeScript, JavaScript
-- Prisma
+- Prisma, firebase , clerk
 - MongoDB, PostgreSQL
 - Tailwind CSS
 ---
@@ -42,7 +42,7 @@ I have a growing interest in Web3 and actively explore decentralized technologie
 ## Projects ive built
 
 * A school management dashboard : https://github.com/dubemoyibe-star/next-dashboard-ui
-* A hotel managemnet system : https://github.com/dubemoyibe-star/Dsuite
+* A hotel management system : https://github.com/dubemoyibe-star/Dsuite
 * A fully functional bookstore site : https://github.com/dubemoyibe-star/bookshell
 
 ---
