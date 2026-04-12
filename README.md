@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**dubemoyibe-star/dubemoyibe-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Oyibe Chidubem
 
-Here are some ideas to get you started:
+Fullstack Developer focused on building modern, scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I am passionate about coding and enjoy building products that solve real problems for people. I am especially interested in creating practical, user-focused solutions that can make everyday tasks easier.
+
+I have a growing interest in Web3 and actively explore decentralized technologies. I also value open source and contribute where I can, while continuously improving my skills through building and learning.
+
+---
+
+## Tech Stack
+
+Tech Stack
+- React, Next.js
+- Express.js
+- TypeScript, JavaScript
+- Prisma
+- MongoDB, PostgreSQL
+- Tailwind CSS
+---
+
+## Connect With Me
+
+* X: https://x.com/oy32665
+* LinkedIn: https://www.linkedin.com/in/oyibe-chidubem-5776b537a/
+* Email: [dubemoyibe@gmail.com](mailto:dubemoyibe@gmail.com)
+
+---
+
+## What I'm Working On
+
+* Building fullstack applications with modern tools
+* Exploring Web3 and decentralized systems
+* Contributing to open source projects
+
+---
+
+## Projects ive built
+
+* A school management dashboard : https://github.com/dubemoyibe-star/next-dashboard-ui
+* A hotel managemnet system : https://github.com/dubemoyibe-star/Dsuite
+* A fully functional bookstore site : https://github.com/dubemoyibe-star/bookshell
+
+---
+
+
+## Philosophy
+
+Build things that matter. Keep it simple. Keep improving.
+
