@@ -15,8 +15,6 @@ I have a growing interest in Web3 and actively explore decentralized technologie
 ---
 
 ## Tech Stack
-
-Tech Stack
 - React, Next.js
 - Express.js
 - TypeScript, JavaScript
