@@ -25,7 +25,7 @@ I have a growing interest in Web3 and actively explore decentralized technologie
 
 ## Connect With Me
 
-* X: https://x.com/oy32665
+* X: https://x.com/EminenceJu94522
 * LinkedIn: https://www.linkedin.com/in/oyibe-chidubem-5776b537a/
 * Email: [dubemoyibe@gmail.com](mailto:dubemoyibe@gmail.com)
 
