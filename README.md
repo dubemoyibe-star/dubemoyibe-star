@@ -28,6 +28,7 @@ I have a growing interest in Web3 and actively explore decentralized technologie
 * X: https://x.com/EminenceJu94522
 * LinkedIn: https://www.linkedin.com/in/oyibe-chidubem-5776b537a/
 * Email: [dubemoyibe@gmail.com](mailto:dubemoyibe@gmail.com)
+* Telegram: https://t.me/oyibe_dev
 
 ---
 
