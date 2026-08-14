@@ -46,7 +46,7 @@ I have a growing interest in Web3 and actively explore decentralized technologie
 * A school management dashboard : https://github.com/dubemoyibe-star/next-dashboard-ui
 * A hotel management system : https://github.com/dubemoyibe-star/Dsuite
 * A fully functional bookstore site : https://github.com/dubemoyibe-star/bookshell
-* An Open-source, continuous risk intelligence for Stellar/Soroban DeFi protocols — live on-chain scoring with a fully public, auditable methodology : https://github.com/stenionlab/stenion (still building 🚧)
+* An Open-source, continuous risk intelligence for Stellar/Soroban DeFi protocols — live on-chain scoring with a fully public, auditable methodology : https://github.com/stenion-lab/stenion (still building 🚧)
 ---
 
 
