@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack & Blockchain Developer · Web3 Enthusiast</h3>
 
 <p align="center">
-  <a href="https://oyibe.vercel.app"><img src="https://img.shields.io/badge/Portfolio-oyibe.vercel.app-00D9A3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://oyibe.dev"><img src="https://img.shields.io/badge/Portfolio-oyibe.dev-00D9A3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://x.com/Eminencee_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/oyibe-chidubem-5776b537a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/oyibe_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -74,7 +74,7 @@ A full-stack e-commerce platform for buying and selling books, with an admin das
 **[Dsuite](https://github.com/dubemoyibe-star/Dsuite)**
 A full-stack hotel booking application for browsing rooms, managing reservations, and overseeing room allocations.
 
-Full write-ups, live demos, and open-source contributions → **[oyibe.vercel.app](https://oyibe.vercel.app)**
+Full write-ups, live demos, and open-source contributions → **[oyibe.dev](https://oyibe.dev)**
 
 ---
 
