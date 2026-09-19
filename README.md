@@ -62,6 +62,9 @@ Currently studying **Software Engineering at Maduka University**, and founder & 
 
 ### Featured Projects
 
+**[Sendra](https://github.com/sendra-lab/sendra)**
+A terminal-native HTTP client for defining, running, and testing API requests with YAML, environments, assertions, and scripting support.
+
 **[Stenion](https://github.com/stenion-lab/stenion)** 🚧 *in progress*
 Open-source, continuous risk intelligence for Stellar/Soroban DeFi protocols — live on-chain scoring with a fully public, auditable methodology.
 
@@ -73,6 +76,8 @@ A full-stack e-commerce platform for buying and selling books, with an admin das
 
 **[Dsuite](https://github.com/dubemoyibe-star/Dsuite)**
 A full-stack hotel booking application for browsing rooms, managing reservations, and overseeing room allocations.
+
+
 
 Full write-ups, live demos, and open-source contributions → **[oyibe.dev](https://oyibe.dev)**
 
