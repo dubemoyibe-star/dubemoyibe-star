@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Oyibe Chidubem 👋</h1>
-<h3 align="center">Fullstack & Blockchain Developer · Web3 Enthusiast</h3>
+
+<h3 align="center">Full-Stack Developer · Web3 Enthusiast</h3>
 
 <p align="center">
   <a href="https://oyibe.dev"><img src="https://img.shields.io/badge/Portfolio-oyibe.dev-00D9A3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://x.com/oyibedev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/oyibe-chidubem-5776b537a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/oyibedev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/oyibe_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:dubemoyibe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -13,11 +14,15 @@
 
 ### About Me
 
-I build practical, user-facing applications, not portfolio pieces, and I care more about solving a real problem than writing clever code for its own sake.
+I build websites, web applications, mobile apps, and digital products that help businesses and startups reach more customers, strengthen their online presence, increase sales, and scale.
 
-I'm continuously learning while shipping, with a growing focus on Web3 and decentralized technologies. Open source matters to me: I contribute where I can and prefer building in the open over building in isolation.
+I focus on turning ideas into practical, reliable solutions that solve real problems and deliver value. Beyond writing code, I care about understanding business needs, creating great user experiences, and building products that people actually use.
 
-Currently studying **Software Engineering at Maduka University**, and founder & CEO of **[Stenion](https://stenion.vercel.app)**, an open-source, continuous risk-intelligence platform for Stellar/Soroban DeFi.
+I'm open to collaborating with founders, businesses, and teams to launch new products, improve existing platforms, and build solutions that create opportunities for growth.
+
+Open source is an important part of my work. I contribute to projects, share knowledge, and believe in building in the open. I'm also a Web3 enthusiast interested in the possibilities of emerging technologies and decentralized applications.
+
+Currently serving as a **Full Stack Engineer at iAurora** and a **Backend Developer at Fildtek**.
 
 ---
 
@@ -34,6 +39,8 @@ Currently studying **Software Engineering at Maduka University**, and founder & 
 </p>
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -44,7 +51,6 @@ Currently studying **Software Engineering at Maduka University**, and founder & 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -63,34 +69,37 @@ Currently studying **Software Engineering at Maduka University**, and founder & 
 ### Featured Projects
 
 **[Sendra](https://github.com/sendra-lab/sendra)**
+
 A terminal-native HTTP client for defining, running, and testing API requests with YAML, environments, assertions, and scripting support.
 
-**[Stenion](https://github.com/stenion-lab/stenion)** 🚧 *in progress*
-Open-source, continuous risk intelligence for Stellar/Soroban DeFi protocols — live on-chain scoring with a fully public, auditable methodology.
+**[Stenion](https://github.com/stenion-lab/stenion)** 🚧 *In progress*
+
+An open-source risk intelligence project for Stellar/Soroban DeFi, focused on continuous on-chain risk scoring and a public, auditable methodology.
 
 **[Crestwood](https://github.com/dubemoyibe-star/Crestwood)**
-A full school management system with role-based dashboards for admins, teachers, parents, and students.
+
+A school management system with role-based dashboards for administrators, teachers, parents, and students.
 
 **[BookShell](https://github.com/dubemoyibe-star/bookshell)**
-A full-stack e-commerce platform for buying and selling books, with an admin dashboard and integrated payments.
+
+A full-stack e-commerce platform for buying and selling books, featuring an admin dashboard for managing products and orders, with integrated payments.
 
 **[Dsuite](https://github.com/dubemoyibe-star/Dsuite)**
+
 A full-stack hotel booking application for browsing rooms, managing reservations, and overseeing room allocations.
 
-
-
-Full write-ups, live demos, and open-source contributions → **[oyibe.dev](https://oyibe.dev)**
+Full write-ups, live demos, and more projects → **[oyibe.dev](https://oyibe.dev)**
 
 ---
 
 ### Currently
 
--  Building **Stenion** as founder & CEO
--  Backend development, contract, at **Fildtek**
--  Studying Software Engineering at Maduka University
--  Deepening my focus on Web3 and decentralized systems
--  Building projects that solve real world problems 
--  Contributing to open-source Stellar/Soroban projects
+- Working as a **Full Stack Engineer at iAurora**.
+- Working as a **Backend Developer on contract at Fildtek**.
+- Building and improving practical software projects.
+- Contributing to open-source projects across different technologies and ecosystems.
+- Exploring Web3 and its applications.
+- Building digital products that solve real-world problems.
 
 ---
 
