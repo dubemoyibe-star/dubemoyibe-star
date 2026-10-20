@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Oyibe Chidubem 👋</h1>
+<h1 align="left">Hi, I'm Oyibe Chidubem 👋</h1>
 
-<h3 align="center">Full-Stack Developer · Web3 Enthusiast</h3>
+<h3 align="left">Full-Stack Developer · Web3 Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://oyibe.dev"><img src="https://img.shields.io/badge/Portfolio-oyibe.dev-00D9A3?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://x.com/oyibedev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/oyibedev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
